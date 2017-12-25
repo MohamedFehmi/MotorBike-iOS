@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Motorbike
 //
-//  Created by Alaa Boukhchina on 2/7/17.
-//  Copyright © 2017 Alaa Boukhchina. All rights reserved.
+//  Created by ALOUI Med Fehmi on 2/7/17.
+//  Copyright © 2017 ALOUI Med Fehmi. All rights reserved.
 //
 
 import UIKit
